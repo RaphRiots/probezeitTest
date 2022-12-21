@@ -1,0 +1,29 @@
+
+body {
+    margin-bottom:50px;
+}
+.btn{
+    border-radius: 50px;
+    width: 10vw;
+    box-shadow: 5px 10px 18px rgb(23, 23, 23)}
+
+.btn:hover {
+    color: rgb(255, 255, 255);
+}
+
+
+#emoji{
+    font-size: 25vh;
+    justify-self:center;
+}
+
+footer {
+    position: fixed;
+    height: 50px;
+    background-color: rgb(25, 107, 194);
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
+}
+
